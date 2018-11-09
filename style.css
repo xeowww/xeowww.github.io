@@ -1,0 +1,18 @@
+/* BEGIN (write your solution here) */
+p{ margin-top:2; margin-bottom:12px;
+
+} ul{ margin-top:2;
+
+} h1,h2,h3{ font-weight:400; margin: 0;
+
+} h1{font-size:36px;} 
+h2{ width:600px;margin: 0 auto; font-size: 32px; border-bottom: 1px grey solid; margin-bottom: 8px; } 
+h3{ font-size: 20px;} 
+#header {width:600px;margin: 0 auto; margin-bottom: 32px; text-align:center; } 
+#main{ width: 600px;margin: 0 auto; text-align: center; } 
+.experience { margin-bottom: 24px;}
+
+.experience_item {width:600px;margin: 0 auto; margin-bottom: 16px;}
+
+#footer {width:600px;margin: 0 auto; margin-top: 64px; text-align: center; }
+/* END */
